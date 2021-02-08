@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my humble github, I'm Thang Vo</h1>
 <h3 align="center">An active learner who seeks out opportunities to acquire new skills and grow</h3>
 
-- 🔭 I’m currently working on [EASY BUY](https://github.com/InterviewCandies/Easy-Buy)
+- 🔭 I’m currently working on [react-quick-popup](https://github.com/InterviewCandies/react-quick-popup)
 
 - 🌱 I’m currently learning **Node.js and Python**
 
