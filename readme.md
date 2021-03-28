@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [react-quick-popup](https://github.com/InterviewCandies/react-quick-popup)
 
-- 🌱 I’m currently learning **Node.js and Python**
+- 🌱 I’m currently learning **Frontend technologies**
 
 - 📝 I regularly write articles on [https://www.facebook.com/InterviewCandies/](https://www.facebook.com/InterviewCandies/)
 
